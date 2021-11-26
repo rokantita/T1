@@ -1,2 +1,3 @@
-print("Central)
-print("North)
+print("Central")
+print("North")
+print("East")
