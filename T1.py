@@ -1,1 +1,2 @@
 print("Central)
+print("North)
